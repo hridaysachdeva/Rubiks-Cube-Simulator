@@ -41,7 +41,7 @@ A **Rubik's Cube simulator** built using **Java AWT** and **Swing** libraries. T
 ## 🖼️ Preview
 
 ### Initial Cube (Solved)
-![Initial](images/Solved.png)
+![Initial](images/Initial.png)
 
 ### Scrambled Cube using Moves via Buttons
 ![Scrambled](images/Scrambled.png)
