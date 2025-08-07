@@ -38,6 +38,19 @@ A **Rubik's Cube simulator** built using **Java AWT** and **Swing** libraries. T
 
 ---
 
+## 🖼️ Preview
+
+### Initial Cube (Solved)
+![Initial](images/Initial.png)
+
+### Scrambled Cube using Moves via Buttons
+![Scrambled](images/Scrambled.png)
+
+### Checkerboard Pattern in Cube using Checkerboard Button
+![Checkerboard](images/[Pattern_Checkerboard.png)
+
+### Cube in a Cube Pattern in Cube using Cube in a Cube Button
+![CubeInACube](images/Pattern_CubeInACube.png)
 ## 🚀 Getting Started
 
 ### Prerequisites
