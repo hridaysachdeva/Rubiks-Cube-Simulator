@@ -59,7 +59,7 @@ A **Rubik's Cube simulator** built using **Java AWT** and **Swing** libraries. T
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hridaysachdeva/Rubiks-Cube-Simulator.git
+   git clone https://github.com/hridaysachdeva/RubiksCubeSimulator.git
    ```
 2. Navigate to the project directory and compile:
    ```bash
